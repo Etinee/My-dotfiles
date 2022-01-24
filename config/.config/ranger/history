@@ -1,0 +1,50 @@
+shell gedit compton.conf
+shell gedit lock.sh
+shell firefox inktober2020.html
+shell rm diagrammeE-A.png
+open_with cat
+shell gedit config2
+shell 
+shell gedit conseils\ de\ prof.txt
+shell gedit dunstrc
+shell gedit config
+shell feh 
+shell feh 2006-8\ Namibie\ \(0\).JPG
+shell vlc CM1-LIFASR6-2021.01.21.mp4
+rename config
+shell vlc CM3-LIFASR6-2021.01.28.mp4
+shell vlc CM7a-LIFASR6-2020.09.17.mp4
+atom LIFAP5-TP2.js
+rename LIFAP5-TPz.js
+shell atom LIFAP5-TP2-test.js
+shell atom *
+shell firefox *.html
+shell cp Bonjour\ Tristesse,\ PV\ Nova\ \&\ Waxx\ -\ Bonjour\ 2015.mp3 ~/Musique/
+shell mv td08.pdf ../LIFAP6/
+shell cat index.php
+shell firefox index.php &
+shell mv D2E9UH_210618180815850.pdf Turin-LyonD2E9UH_210618180815850.pdf
+shell mv Eglantine-Kremer\ Cochet-1455062565.pdf Turin-Florence1455062565.pdf
+find i3lock
+find vboxconfig
+find v
+find 
+open_with²
+shell rm TEST plop
+shell zip -r TP_noté2.zip 'TP noté2'
+shell zip -r TP_noté.zip 'TP noté'
+shell touch TPN-LF-B.v
+shell touch TPN-LC-B.v
+shell rm Niko
+shell mkdir Stages
+shell mkdir Wanadev
+shell vim info
+shell bash packettracer.sh
+shell mkdir Certification\ Cisco
+open_with 
+
+shell git clone https://github.com/Etinee/LIFAP6-Algorithmique-Programmation-et-Complexit-.git
+shell mv lifap6 LIFAP6-Algorithmique-Programmation-et-Complexit-
+shell mv Projet/ Projet\ Duel\ de\ citations/
+open_with%
+shell rm LIFAP5-TP2*

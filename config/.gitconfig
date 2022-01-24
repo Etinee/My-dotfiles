@@ -1,0 +1,15 @@
+[core]
+	editor = vim
+
+[user]
+	name = Eglantine Kremer-Cochet
+	email = eglantine.kremer-cochet@etu.univ-lyon1.fr
+
+[diff]
+	rename = true
+
+[push]
+	default = simple
+
+[color]
+	ui = auto
