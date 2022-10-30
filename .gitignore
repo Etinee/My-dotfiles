@@ -1,0 +1,5 @@
+terminal/.ssh
+terminal/.bash_history
+terminal/.bash_logout
+terminal/.profile
+config/.config/user*
